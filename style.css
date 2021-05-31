@@ -23,6 +23,14 @@ body {
 max-width: 100%;
   height: auto;
 }
+table{ border: 1 px solid black ; }
+table,td{ border: 1px solid black; }
+footer{ 
+  width:auto;
+  height: 10px;
+background-color:orange;
+padding: 60px 0px;
+ }
  #navbar {
   margin: 0;
   padding: 0;
@@ -55,17 +63,14 @@ max-width: 100%;
   background-color:#d5735d;
 }
 #footer{
-  overflow: auto;
-  margin: 0;
+margin: 0;
   padding: 0;
   list-style-type: none;
-  border: 0px solid black;
-  border-radius: 0px 0px;
-  width: 120%;
+  border: 5px solid black;
+  border-radius: 10px 5px;
+  width: 1400px;
   text-align: center;
   background-color: black;
-  width:120%;
-  position:static;
 }
 #footer a {
   color: #fff;
@@ -80,7 +85,6 @@ max-width: 100%;
   background-color:#d5735d;
 }
 footer{
-  width:100%;
 background-color:black;
 }
 
