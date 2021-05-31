@@ -63,15 +63,17 @@ padding: 60px 0px;
   background-color:#d5735d;
 }
 #footer{
-margin: 0;
+ overflow: auto;
+  margin: 0;
   padding: 0;
   list-style-type: none;
-  border: 5px solid black;
-  border-radius: 10px 5px;
-  width: 1400px;
+  border: 0px solid black;
+  border-radius: 0px 0px;
+  width: 120%;
   text-align: center;
   background-color: black;
   width:120%;
+  position:static;
 }
 #footer a {
   color: #fff;
