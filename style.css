@@ -55,7 +55,7 @@ max-width: 100%;
   background-color:#d5735d;
 }
 #footer{
- overflow: auto;
+  overflow: auto;
   margin: 0;
   padding: 0;
   list-style-type: none;
@@ -80,6 +80,7 @@ max-width: 100%;
   background-color:#d5735d;
 }
 footer{
+  width:100%;
 background-color:black;
 }
 
@@ -111,9 +112,4 @@ footer {
 }
 .c{
   text-align:center;
-}
-
-img {
-    max-width: 50%;
-    height: auto;
 }
