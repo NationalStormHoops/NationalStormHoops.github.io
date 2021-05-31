@@ -17,3 +17,19 @@ height: auto;
 body{
 width:110%;
 }
+@media only screen and (max-device-width: 480px) {
+
+  body{
+    width:145%;
+  }
+	h1{
+		text-align:center;
+	}
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width:auto;
+}
+
+    }
