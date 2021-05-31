@@ -23,14 +23,6 @@ body {
 max-width: 100%;
   height: auto;
 }
-table{ border: 1 px solid black ; }
-table,td{ border: 1px solid black; }
-footer{ 
-  width:auto;
-  height: 10px;
-background-color:orange;
-padding: 60px 0px;
- }
  #navbar {
   margin: 0;
   padding: 0;
