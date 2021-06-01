@@ -31,5 +31,8 @@ width:110%;
   margin-right: auto;
   width:auto;
 }
+footer{
+  position:absolute;
+  bottom:-820px;
 
     }
